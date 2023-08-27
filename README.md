@@ -1,0 +1,1 @@
+A crud api for book management system using FastAPI and PyMongo.
